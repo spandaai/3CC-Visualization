@@ -21,6 +21,8 @@
 
 **3CC-Visualization** is an initiative aimed at **Empowering Humanity through Cognitive Collaboration**. Leveraging artificial intelligence (AI) and data-driven strategies, this project seeks to create a structured framework that facilitates ethical AI integration across various sectors, including enterprises, educational institutions, and developer communities. The project focuses on establishing foundational charters and a strategic matrix to guide and evaluate collaborative efforts, ensuring alignment with ethical standards and societal benefits.
 
+[![3CC-Visualization](images/visualization.png)](https://spandaai.github.io/3CC-Visualization/)
+
 ---
 
 ## Vision
