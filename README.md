@@ -105,11 +105,12 @@ This repository includes a Python script designed to generate both **Detailed** 
 **Run the Python script to generate the pitch decks:**
 ```bash
    python3 generate_pitch_deck.py
-**Upon successful execution, the script will create a directory named pitch_deck_output containing:**
 
-**Pitch_Deck_Detailed.pptx**
-**Pitch_Deck_Detailed.pdf**
-**Pitch_Deck_Minimalist.pptx**
-**Pitch_Deck_Minimalist.pdf**
-**Ensure that LibreOffice is correctly installed at the specified path and that the soffice executable has the necessary permissions to execute.**
+Upon successful execution, the script will create a directory named pitch_deck_output containing:
+
+Pitch_Deck_Detailed.pptx
+Pitch_Deck_Detailed.pdf
+Pitch_Deck_Minimalist.pptx
+Pitch_Deck_Minimalist.pdf
+Ensure that LibreOffice is correctly installed at the specified path and that the soffice executable has the necessary permissions to execute.
 
